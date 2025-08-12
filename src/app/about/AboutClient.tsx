@@ -1,54 +1,79 @@
 'use client';
 
-import { motion } from 'framer-motion';
+import { useEffect, useState } from 'react';
+import { useSearchParams } from 'next/navigation';
 
-export type AboutTranslations = {
+type Lang = 'en' | 'gr' | 'ru';
+
+interface AboutSection {
   title: string;
   subtitle: string;
   paragraphs: string[];
   founded: string;
   mission: string;
-};
+}
 
-type Props = {
-  content: AboutTranslations;
-};
+type AboutData = Record<Lang, AboutSection>;
 
-export default function AboutUsClient({ content }: Props) {
+export default function AboutClient() {
+  const searchParams = useSearchParams();
+  const lang = (searchParams.get('lang') as Lang) || 'en';
+  const [aboutData, setAboutData] = useState<AboutData | null>(null);
+
+  useEffect(() => {
+    async function fetchData() {
+      try {
+        const res = await fetch('https://arturkarapetyan-1981.github.io/host_api/about.json');
+        if (!res.ok) throw new Error('Failed to fetch about.json');
+        const data: AboutData = await res.json();
+        setAboutData(data);
+      } catch (err) {
+        console.error(err);
+      }
+    }
+    fetchData();
+  }, []);
+
+  if (!aboutData) {
+    return <p className="text-center text-white">Loading...</p>;
+  }
+
+  const section = aboutData[lang];
+
   return (
-    <section className="relative w-full h-screen flex items-center justify-center overflow-hidden text-white">
-      {/* Background Video */}
+    <div className="relative w-full min-h-screen pt-[100px] pb-[50px]">
+      {/* Background video */}
       <video
-        className="absolute top-0 left-0 w-full h-full object-cover"
-        src="/videos/cyprus.mp4"
         autoPlay
-        muted
         loop
+        muted
         playsInline
-      />
-      {/* Overlay */}
-      <div className="absolute top-0 left-0 w-full h-full bg-black/50" />
+        className="absolute top-0 left-0 w-full h-full object-cover"
+      >
+        <source src="/videos/cyprus.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+
+      {/* Dark overlay */}
+      <div className="absolute inset-0 bg-black/60" />
 
       {/* Content */}
-      <motion.div
-        className="relative z-10 max-w-4xl px-6 text-center"
-        initial={{ opacity: 0, y: 40 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.8 }}
-      >
-        <h1 className="text-4xl font-bold mb-4">{content.title}</h1>
-        <h2 className="text-2xl font-semibold mb-6">{content.subtitle}</h2>
-        {content.paragraphs.map((p, i) => (
-          <p key={i} className="mb-4 text-lg leading-relaxed">
+      <div className="relative z-10 flex flex-col items-center justify-center h-full px-6 text-white text-center">
+        <h1 className="text-4xl font-bold mb-2">{section.title}</h1>
+        <h2 className="text-2xl mb-6">{section.subtitle}</h2>
+        {section.paragraphs.map((p, idx) => (
+          <p key={idx} className="mb-4 max-w-2xl text-lg leading-relaxed">
             {p}
           </p>
         ))}
-        <p className="mt-6 italic">{content.founded}</p>
-        <p className="italic">{content.mission}</p>
-      </motion.div>
-    </section>
+        <p className="mt-6 font-semibold">{section.founded}</p>
+        <p className="italic">{section.mission}</p>
+      </div>
+    </div>
   );
 }
+
+
 
 
 
