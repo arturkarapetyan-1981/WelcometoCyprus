@@ -1,0 +1,43 @@
+{
+  "hotels": [
+    {
+        "id": 1,
+        "slug": "royal-apollonia-limassol",
+        "image": "/hotels/royal-apollonia.jpg",
+        "city": "Limassol",
+        "translations": {
+            "en": {
+            "name": "Royal Apollonia",
+            "shortDescription": "Luxury beachfront resort in the heart of Limassol.",
+            "description": "The Royal Apollonia offers 5-star comfort with stunning sea views, gourmet dining, and a relaxing spa experience. Perfect for couples and families seeking elegance and relaxation by the Mediterranean.",
+            "reserve": "Reserve Now",
+            "nameInput": "Your Name",
+            "emailInput": "Your Email",
+            "phoneInput": "Your Phone Number",
+            "submit": "Book Hotel"
+            },
+            "gr": {
+            "name": "Royal Apollonia",
+            "shortDescription": "Πολυτελές παραθαλάσσιο θέρετρο στην καρδιά της Λεμεσού.",
+            "description": "Το Royal Apollonia προσφέρει άνεση 5 αστέρων με εκπληκτική θέα στη θάλασσα, εκλεκτή γαστρονομία και χαλαρωτικό σπα. Ιδανικό για ζευγάρια και οικογένειες που αναζητούν κομψότητα και χαλάρωση δίπλα στη Μεσόγειο.",
+            "reserve": "Κράτηση τώρα",
+            "nameInput": "Το όνομά σας",
+            "emailInput": "Το email σας",
+            "phoneInput": "Ο αριθμός τηλεφώνου σας",
+            "submit": "Κάντε κράτηση"
+            },
+            "ru": {
+            "name": "Royal Apollonia",
+            "shortDescription": "Роскошный курорт на берегу моря в центре Лимассола.",
+            "description": "Royal Apollonia предлагает комфорт 5 звёзд с потрясающим видом на море, изысканную кухню и расслабляющий спа. Идеально подходит для пар и семей, ищущих элегантность и отдых на берегу Средиземного моря.",
+            "reserve": "Забронировать",
+            "nameInput": "Ваше имя",
+            "emailInput": "Ваш email",
+            "phoneInput": "Ваш номер телефона",
+            "submit": "Забронировать отель"
+            }
+        }
+    }
+
+  ]
+}

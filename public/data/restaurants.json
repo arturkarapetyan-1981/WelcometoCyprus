@@ -1,0 +1,1287 @@
+[
+  {
+    "id": 1,
+    "slug": "pier-one-limassol",
+    "image": "/restaurants/rest-1.jpg",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Pier One",
+        "shortDescription": "Pier One Limassol: Waterfront Dining & Vibrant Atmosphere",
+        "description": "Pier One Limassol is a chic seafront restaurant at the Old Port, offering Mediterranean cuisine, sushi, and signature cocktails. With stunning marina views, live DJ nights, and a vibrant atmosphere, it’s ideal for brunch, lunch, or evening drinks by the sea in a stylish and lively setting."
+      },
+      "gr": {
+        "name": "Πιερ Ουάν",
+        "shortDescription": "Πιερ Ουάν Λεμεσός: Παραθαλάσσιο Δείπνο & Ζωντανή Ατμόσφαιρα",
+        "description": "Το Πιερ Ουάν στη Λεμεσό είναι ένα κομψό παραθαλάσσιο εστιατόριο στο Παλιό Λιμάνι, που προσφέρει μεσογειακή κουζίνα, σούσι και μοναδικά κοκτέιλ. Με εκπληκτική θέα στη μαρίνα, βραδιές με DJ και ζωντανή ατμόσφαιρα, είναι ιδανικό για brunch, μεσημεριανό ή βραδινό ποτό δίπλα στη θάλασσα σε ένα στυλάτο και ζωηρό περιβάλλον."
+      },
+      "ru": {
+        "name": "Пир Уан",
+        "shortDescription": "Пир Уан Лимассол: Ужин у моря и живая атмосфера",
+        "description": "Пир Уан в Лимассоле — это стильный прибрежный ресторан в Старом порту, предлагающий средиземноморскую кухню, суши и фирменные коктейли. С потрясающим видом на марину, живыми DJ-вечерами и яркой атмосферой, он идеально подходит для бранча, обеда или вечернего напитка у моря в стильной и оживлённой обстановке."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "slug": "le-bordeaux-restaurant-cyprus",
+    "image": "/restaurants/rest-2.jpg",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Le Bordeaux",
+        "shortDescription": "Le Bordeaux: A Taste of France in the Heart of Cyprus",
+        "description": "Le Bordeaux restaurant brings authentic French cuisine to Cyprus with elegance and flair. Enjoy expertly prepared dishes, fine wines, and a charming ambiance inspired by Bordeaux's culinary tradition. Perfect for romantic dinners, celebrations, or refined dining experiences. A true French escape without leaving the island."
+      },
+      "gr": {
+        "name": "Λε Μπορντό",
+        "shortDescription": "Λε Μπορντό: Η Γεύση της Γαλλίας στην Καρδιά της Κύπρου",
+        "description": "Το εστιατόριο Le Bordeaux φέρνει την αυθεντική γαλλική κουζίνα στην Κύπρο με κομψότητα και στυλ. Απολαύστε εξαιρετικά μαγειρεμένα πιάτα, εκλεκτά κρασιά και μια γοητευτική ατμόσφαιρα εμπνευσμένη από τη γαστρονομική παράδοση του Μπορντώ. Ιδανικό για ρομαντικά δείπνα, εορτασμούς ή εκλεπτυσμένες γαστρονομικές εμπειρίες. Μια αληθινή γαλλική απόδραση χωρίς να φύγετε από το νησί."
+      },
+      "ru": {
+        "name": "Ле Бордо",
+        "shortDescription": "Ле Бордо: Вкус Франции в сердце Кипра",
+        "description": "Ресторан Le Bordeaux приносит на Кипр подлинную французскую кухню с элегантностью и изяществом. Наслаждайтесь мастерски приготовленными блюдами, изысканными винами и очаровательной атмосферой, вдохновлённой кулинарными традициями Бордо. Идеально для романтических ужинов, торжеств или утончённого гастрономического отдыха. Настоящее французское путешествие — не покидая острова."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "slug": "sesoula-kalamaki-ayia-napa",
+    "image": "/restaurants/rest-3.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Sesoula Kalamaki",
+        "shortDescription": "Sesoula Kalamaki: Traditional Greek Grill in Ayia Napa",
+        "description": "Sesoula Kalamaki in Ayia Napa offers mouthwatering Greek souvlaki and grilled meats in a relaxed, authentic setting. Known for generous portions, friendly service, and homemade flavors, it's a must-visit for lovers of Greek cuisine. A local favorite for casual dining with the true taste of Greece."
+      },
+      "gr": {
+        "name": "Σεσούλα Καλαμάκι",
+        "shortDescription": "Σεσούλα Καλαμάκι: Παραδοσιακή Ελληνική Ψησταριά στην Αγία Νάπα",
+        "description": "Το Sesoula Kalamaki στην Αγία Νάπα προσφέρει λαχταριστό ελληνικό σουβλάκι και ψητά κρέατα σε έναν χαλαρό και αυθεντικό χώρο. Γνωστό για τις γενναιόδωρες μερίδες, τη φιλική εξυπηρέτηση και τις σπιτικές γεύσεις, είναι απαραίτητη στάση για τους λάτρεις της ελληνικής κουζίνας. Αγαπημένο στέκι των ντόπιων για καθημερινό φαγητό με την αληθινή γεύση της Ελλάδας."
+      },
+      "ru": {
+        "name": "Сесула Каламаки",
+        "shortDescription": "Сесула Каламаки: Традиционный греческий гриль в Айя-Напе",
+        "description": "Сесула Каламаки в Айя-Напе предлагает аппетитный греческий сувлаки и мясо на гриле в уютной и аутентичной обстановке. Известен щедрыми порциями, дружелюбным обслуживанием и домашним вкусом — это обязательное место для любителей греческой кухни. Любимое заведение местных жителей для непринуждённого ужина с настоящим вкусом Греции."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "slug": "opas-traditional-tavern-ayia-napa",
+    "image": "/restaurants/rest-4.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Opas Traditional Tavern",
+        "shortDescription": "Opas Traditional Tavern: Authentic Cypriot Dining in Ayia Napa",
+        "description": "Opas Traditional Tavern in Ayia Napa serves classic Cypriot dishes in a warm, rustic atmosphere. Enjoy meze feasts, grilled specialties, and local wines while experiencing live music and traditional hospitality. A perfect spot for a genuine island dining experience full of flavor, culture, and unforgettable moments."
+      },
+      "gr": {
+        "name": "Παραδοσιακή Ταβέρνα Οπάς",
+        "shortDescription": "Παραδοσιακή Ταβέρνα Οπάς: Αυθεντική Κυπριακή Κουζίνα στην Αγία Νάπα",
+        "description": "Η Παραδοσιακή Ταβέρνα Οπάς στην Αγία Νάπα προσφέρει κλασικά κυπριακά πιάτα σε μια ζεστή, παραδοσιακή ατμόσφαιρα. Απολαύστε πλούσια μεζέδες, ψητά εδέσματα και τοπικά κρασιά, ενώ ζείτε τη ζωντανή μουσική και την αυθεντική κυπριακή φιλοξενία. Ένας ιδανικός προορισμός για μια αυθεντική νησιώτικη γαστρονομική εμπειρία γεμάτη γεύση, κουλτούρα και αξέχαστες στιγμές."
+      },
+      "ru": {
+        "name": "Традиционная Таверна Opas",
+        "shortDescription": "Традиционная Таверна Opas: Аутентичная Кипрская Кухня в Айя-Напе",
+        "description": "Традиционная таверна Opas в Айя-Напе предлагает классические кипрские блюда в уютной, деревенской атмосфере. Наслаждайтесь мезе, блюдами на гриле и местными винами, наслаждаясь живой музыкой и традиционным кипрским гостеприимством. Идеальное место для подлинного островного гастрономического опыта, полного вкуса, культуры и незабываемых моментов."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "slug": "los-mexicanos-ayia-napa",
+    "image": "/restaurants/rest-5.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Los Mexicanos",
+        "shortDescription": "Los Mexicanos: Vibrant Mexican Flavors in Ayia Napa",
+        "description": "Los Mexicanos in Ayia Napa delivers bold Mexican cuisine with colorful flair. From sizzling fajitas to zesty tacos and refreshing margaritas, it's a festive spot full of energy and taste. Ideal for casual dinners or lively nights out, bringing a spicy twist to your Cyprus holiday."
+      },
+      "gr": {
+        "name": "Λος Μεξικανος",
+        "shortDescription": "Λος Μεξικάνος: Ζωντανές μεξικάνικες γεύσεις στην Αγία Νάπα",
+        "description": "Το Los Mexicanos στην Αγία Νάπα προσφέρει τολμηρή μεξικάνικη κουζίνα με πολύχρωμη πινελιά. Από καυτές φαχίτας και πικάντικα τάκος μέχρι δροσιστικές μαργαρίτες, είναι ένα γιορτινό μέρος γεμάτο ενέργεια και γεύση. Ιδανικό για χαλαρά δείπνα ή ζωντανές βραδιές, φέρνει μια πικάντικη νότα στις διακοπές σας στην Κύπρο."
+      },
+      "ru": {
+        "name": "Лос Мексиканос",
+        "shortDescription": "Лос Мексиканос: Яркие мексиканские вкусы в Айя-Напе",
+        "description": "Los Mexicanos в Айя-Напе предлагает смелую мексиканскую кухню с ярким колоритом. От шипящих фахитас и пикантных тако до освежающих маргарит — это праздничное место, полное энергии и вкуса. Идеально подходит для непринуждённых ужинов или весёлых вечеров, придавая острый оттенок вашему отдыху на Кипре."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "slug": "vinaria-restaurant-larnaca",
+    "image": "/restaurants/rest-6.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Vinaria",
+        "shortDescription": "Vinaria Restaurant: Elegant Cypriot Dining in Larnaca",
+        "description": "Vinaria Restaurant in Larnaca offers refined Cypriot and Mediterranean cuisine crafted with local ingredients. Enjoy creative meze, fresh seafood, and premium wines in a stylish, inviting ambiance. Perfect for intimate dinners, special occasions, or a sophisticated night out discovering authentic island flavors with a modern twist."
+      },
+      "gr": {
+        "name": "Βιναρία",
+        "shortDescription": "Εστιατόριο Vinaria: Κομψή Κυπριακή Κουζίνα στη Λάρνακα",
+        "description": "Το εστιατόριο Vinaria στη Λάρνακα προσφέρει εκλεπτυσμένη κυπριακή και μεσογειακή κουζίνα, φτιαγμένη με τοπικά υλικά. Απολαύστε δημιουργικά μεζέδες, φρέσκα θαλασσινά και εκλεκτά κρασιά σε ένα κομψό και φιλόξενο περιβάλλον. Ιδανικό για ρομαντικά δείπνα, ιδιαίτερες περιστάσεις ή μια εκλεπτυσμένη έξοδο, ανακαλύπτοντας αυθεντικές γεύσεις του νησιού με σύγχρονη πινελιά."
+      },
+      "ru": {
+        "name": "Винария",
+        "shortDescription": "Ресторан Vinaria: Изысканная кипрская кухня в Ларнаке",
+        "description": "Ресторан Vinaria в Ларнаке предлагает изысканную кипрскую и средиземноморскую кухню, приготовленную из местных ингредиентов. Наслаждайтесь креативными мезе, свежими морепродуктами и премиальными винами в стильной и уютной атмосфере. Идеально подходит для романтического ужина, особых случаев или утончённого вечера, посвящённого открытию аутентичных островных вкусов с современным акцентом."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "slug": "kaifu-sushi-bar-ayia-napa",
+    "image": "/restaurants/rest-7.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Kaifu Sushi Bar",
+        "shortDescription": "Kaifu Sushi Bar: Premium Japanese Sushi in Ayia Napa",
+        "description": "Kaifu Sushi Bar in Ayia Napa delights sushi lovers with fresh, artfully crafted rolls, sashimi, and Japanese specialties. Experience refined, authentic flavors in a modern, stylish setting. Perfect for casual dinners, romantic dates, or sushi tastings with top-tier fish and attentive service. A culinary escape to Japan by the sea."
+      },
+      "gr": {
+        "name": "Καΐφου Σούσι Μπαρ",
+        "shortDescription": "Καΐφου Σούσι Μπαρ: Ποιοτικό Ιαπωνικό Σούσι στην Αγία Νάπα",
+        "description": "Το Kaifu Sushi Bar στην Αγία Νάπα ενθουσιάζει τους λάτρεις του σούσι με φρέσκα, επιμελώς φτιαγμένα ρολά, σασίμι και ιαπωνικές σπεσιαλιτέ. Ζήστε αυθεντικές, εκλεπτυσμένες γεύσεις σε έναν μοντέρνο και κομψό χώρο. Ιδανικό για χαλαρά δείπνα, ρομαντικά ραντεβού ή γευσιγνωσίες σούσι με κορυφαίας ποιότητας ψάρια και εξαιρετική εξυπηρέτηση. Μια γαστρονομική απόδραση στην Ιαπωνία δίπλα στη θάλασσα."
+      },
+      "ru": {
+        "name": "Кайфу Суши Бар",
+        "shortDescription": "Кайфу Суши Бар: Премиум японское суши в Айя-Напе",
+        "description": "Kaifu Sushi Bar в Айя-Напе радует поклонников суши свежими, искусно приготовленными роллами, сашими и японскими деликатесами. Ощутите изысканные, аутентичные вкусы в современном и стильном интерьере. Идеально подходит для непринуждённых ужинов, романтических свиданий или дегустаций суши с рыбой высшего качества и внимательным обслуживанием. Кулинарное путешествие в Японию у моря."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "slug": "to-kazani-traditional-tavern-larnaca",
+    "image": "/restaurants/rest-8.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "To Kazani Traditional Tavern",
+        "shortDescription": "To Kazani Traditional Tavern: Authentic Cypriot Hospitality in Larnaca",
+        "description": "To Kazani Traditional Tavern in Larnaca offers genuine Cypriot culinary delights in a welcoming, homey atmosphere. Savor hearty meze, grilled meats, and local delicacies using fresh ingredients and time‑honored recipes. Ideal for family dinners, festive gatherings, or cultural dining events that celebrate Cyprus’s rustic traditions."
+      },
+      "gr": {
+        "name": "Το Καζάνι Παραδοσιακή Ταβέρνα",
+        "shortDescription": "Το Καζάνι Παραδοσιακή Ταβέρνα: Αυθεντική Κυπριακή Φιλοξενία στη Λάρνακα",
+        "description": "Το Καζάνι Παραδοσιακή Ταβέρνα στη Λάρνακα προσφέρει αυθεντικές κυπριακές γεύσεις σε μια ζεστή, φιλόξενη ατμόσφαιρα. Απολαύστε πλούσιο μεζέ, ψητά κρέατα και τοπικές λιχουδιές με φρέσκα υλικά και παραδοσιακές συνταγές. Ιδανικό για οικογενειακά δείπνα, γιορτινές συγκεντρώσεις ή πολιτιστικά γεύματα που τιμούν τις αγροτικές παραδόσεις της Κύπρου."
+      },
+      "ru": {
+        "name": "То Казани Традиционная Таверна",
+        "shortDescription": "То Казани Традиционная Таверна: Аутентичное кипрское гостеприимство в Ларнаке",
+        "description": "То Казани Традиционная Таверна в Ларнаке предлагает подлинные кипрские кулинарные удовольствия в уютной, домашней атмосфере. Наслаждайтесь сытными мезе, мясом на гриле и местными деликатесами, приготовленными из свежих ингредиентов по традиционным рецептам. Идеально подходит для семейных ужинов, праздничных встреч или культурных мероприятий, посвящённых кипрским деревенским традициям."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "slug": "to-anamma-restaurant-nicosia",
+    "image": "/restaurants/rest-9.jpg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "To Anamma",
+        "shortDescription": "To Anámma Restaurant: Gourmet Cypriot Dining in Nicosia",
+        "description": "To Anámma Restaurant in Nicosia blends Cypriot culinary heritage with modern flair. Enjoy seasonal meze, inventive seafood creations, and locally sourced specialties in an elegant, contemporary setting. Perfect for romantic dinners, refined gatherings, or savouring island flavours with sophisticated style in Cyprus’s capital city."
+      },
+      "gr": {
+        "name": "Το Ανάμμα",
+        "shortDescription": "Το Ανάμμα Εστιατόριο: Γκουρμέ Κυπριακή Κουζίνα στη Λευκωσία",
+        "description": "Το Ανάμμα Εστιατόριο στη Λευκωσία συνδυάζει την κυπριακή γαστρονομική παράδοση με μοντέρνο χαρακτήρα. Απολαύστε εποχιακούς μεζέδες, ευφάνταστες δημιουργίες με θαλασσινά και τοπικές σπεσιαλιτέ με επιλεγμένα υλικά, σε έναν κομψό και σύγχρονο χώρο. Ιδανικό για ρομαντικά δείπνα, εκλεπτυσμένες συγκεντρώσεις ή για να απολαύσετε γεύσεις του νησιού με στυλ στην πρωτεύουσα της Κύπρου."
+      },
+      "ru": {
+        "name": "То Анамма",
+        "shortDescription": "То Анамма Ресторан: Гурманская кипрская кухня в Никосии",
+        "description": "Ресторан То Анамма в Никосии сочетает кипрское кулинарное наследие с современным стилем. Наслаждайтесь сезонными мезе, оригинальными блюдами из морепродуктов и местными деликатесами из свежих ингредиентов в элегантной, современной обстановке. Идеально подходит для романтических ужинов, утончённых встреч или наслаждения вкусами острова со стилем в столице Кипра."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "slug": "piatsa‑gourounaki-nicosia",
+    "image": "/restaurants/rest-10.jpg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "Piatsa Gourounaki",
+        "shortDescription": "Piatsa Gourounaki: Lively Greek Comfort Food in Nicosia",
+        "description": "Piatsa Gourounaki in Nicosia delivers vibrant Greek street‑food classics with a playful twist. Feast on crispy pork gyros, juicy souvlaki, dip‑worthy fries, and signature wraps bursting with flavor. With casual charm, friendly service, and bold tastes, it’s the perfect spot for a delicious, laid‑back Greek bite."
+      },
+      "gr": {
+        "name": "Πιάτσα Γουρουνάκι",
+        "shortDescription": "Πιάτσα Γουρουνάκι: Ζωντανές Γεύσεις Ελληνικής Παράδοσης στη Λευκωσία",
+        "description": "Το Piatsa Gourounaki στη Λευκωσία προσφέρει κλασικό ελληνικό street food με παιχνιδιάρικη πινελιά. Απολαύστε τραγανά χοιρινά γύρο, ζουμερά σουβλάκια, πατάτες για βούτηγμα και signature wraps γεμάτα γεύση. Με ανεπιτήδευτη ατμόσφαιρα, φιλική εξυπηρέτηση και έντονες γεύσεις, είναι το ιδανικό μέρος για ένα χαλαρό και πεντανόστιμο ελληνικό γεύμα."
+      },
+      "ru": {
+        "name": "Пьяца Гурунаки",
+        "shortDescription": "Piatsa Gourounaki: Аутентичная греческая кухня и уютная атмосфера в Никосии",
+        "description": "Piatsa Gourounaki в Никосии предлагает яркую классику греческого стрит-фуда с игривым акцентом. Хрустящий свиной гирос, сочный сувлаки, картофель-фри, который хочется макать в соусы, и фирменные роллы, полные вкуса. Непринуждённая атмосфера, дружелюбное обслуживание и насыщенные вкусы — идеальное место для вкусного и расслабленного греческого перекуса."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "slug": "elysian-restaurant-nicosia",
+    "image": "/restaurants/rest-11.jpg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "Elysian Restaurant",
+        "shortDescription": "Elysian Restaurant – Fine Dining in the Heart of Nicosia",
+        "description": "Elysian Restaurant in Nicosia offers a sophisticated dining experience, blending Mediterranean flavors with modern culinary techniques. Renowned for its elegant ambiance and exceptional service, it’s the perfect destination for romantic dinners, family gatherings, or corporate events. Enjoy premium wines and signature dishes crafted from the freshest local ingredients."
+      },
+      "gr": {
+        "name": "Εστιατόριο Elysian",
+        "shortDescription": "Elysian Εστιατόριο – Εκλεκτή Γαστρονομία στην Καρδιά της Λευκωσίας",
+        "description": "Το Elysian Εστιατόριο στη Λευκωσία προσφέρει μια εκλεπτυσμένη γαστρονομική εμπειρία, συνδυάζοντας μεσογειακές γεύσεις με σύγχρονες μαγειρικές τεχνικές. Γνωστό για την κομψή ατμόσφαιρα και την εξαιρετική εξυπηρέτηση, αποτελεί τον ιδανικό προορισμό για ρομαντικά δείπνα, οικογενειακές συγκεντρώσεις ή επαγγελματικές εκδηλώσεις. Απολαύστε εκλεκτά κρασιά και signature πιάτα, φτιαγμένα με τα πιο φρέσκα τοπικά υλικά."
+      },
+      "ru": {
+        "name": "Ресторан Elysian",
+        "shortDescription": "Ресторан Elysian — Высокая кухня в самом сердце Никосии",
+        "description": "Ресторан Elysian в Никосии предлагает изысканный гастрономический опыт, объединяя средиземноморские вкусы с современными кулинарными техниками. Известный своей элегантной атмосферой и безупречным обслуживанием, это идеальное место для романтических ужинов, семейных встреч или корпоративных мероприятий. Насладитесь премиальными винами и фирменными блюдами, приготовленными из самых свежих местных ингредиентов."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "slug": "meze-taverna-restaurant-limassol",
+    "image": "/restaurants/rest-12.jpg",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Meze Taverna Restaurant",
+        "shortDescription": "Meze Taverna Restaurant – Authentic Cypriot Dining in Limassol",
+        "description": "Meze Taverna Restaurant in Limassol is celebrated for its traditional Cypriot hospitality and authentic flavors. Offering an extensive selection of meze dishes, freshly grilled meats, and local specialties, it provides a true taste of Cyprus. With a warm, rustic atmosphere, it’s perfect for family meals or gatherings with friends."
+      },
+      "gr": {
+        "name": "Μεζέ Ταβέρνα Εστιατόριο",
+        "shortDescription": "Μεζέ Ταβέρνα Εστιατόριο – Αυθεντική Κυπριακή Κουζίνα στη Λεμεσό",
+        "description": "Το Μεζέ Ταβέρνα Εστιατόριο στη Λεμεσό είναι γνωστό για την παραδοσιακή κυπριακή φιλοξενία και τις αυθεντικές γεύσεις του. Προσφέροντας μια μεγάλη ποικιλία από μεζέδες, φρεσκοψημένα κρέατα και τοπικές σπεσιαλιτέ, προσφέρει μια αληθινή γευστική εμπειρία της Κύπρου. Με ζεστή και παραδοσιακή ατμόσφαιρα, είναι ιδανικό για οικογενειακά γεύματα ή συναντήσεις με φίλους."
+      },
+      "ru": {
+        "name": "Ресторан Meze Taverna",
+        "shortDescription": "Ресторан Meze Taverna — Аутентичная кипрская кухня в Лимассоле",
+        "description": "Ресторан Meze Taverna в Лимассоле славится традиционным кипрским гостеприимством и аутентичными вкусами. Здесь подают широкий выбор мезе, свежие блюда на гриле и местные деликатесы — настоящий вкус Кипра. Тёплая, уютная и деревенская атмосфера делает это место идеальным для семейных ужинов и встреч с друзьями."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "slug": "panos-steak-house-larnaca",
+    "image": "/restaurants/rest-13.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Panos Steak House",
+        "shortDescription": "Panos Steak House – Premium Steaks in Larnaca",
+        "description": "Panos Steak House in Larnaca is a top destination for meat lovers, offering expertly grilled premium steaks and a variety of international dishes. With a welcoming atmosphere, attentive service, and a menu crafted from the finest ingredients, it’s the ideal spot for family dinners, celebrations, and unforgettable dining experiences."
+      },
+      "gr": {
+        "name": "Πάνος Στέικ Χάουζ",
+        "shortDescription": "Πάνος Στέικ Χάουζ – Ποιοτικές Μπριζόλες στη Λάρνακα",
+        "description": "Το Panos Steak House στη Λάρνακα είναι ένας κορυφαίος προορισμός για τους λάτρεις του κρέατος, προσφέροντας άριστα ψημένες premium μπριζόλες και ποικιλία από διεθνή πιάτα. Με φιλόξενη ατμόσφαιρα, προσεγμένη εξυπηρέτηση και μενού βασισμένο στα πιο εκλεκτά υλικά, αποτελεί την ιδανική επιλογή για οικογενειακά δείπνα, εορταστικές περιστάσεις και αξέχαστες γαστρονομικές εμπειρίες."
+      },
+      "ru": {
+        "name": "Панос Стейк Хаус",
+        "shortDescription": "Панос Стейк Хаус – Премиальные стейки в Ларнаке",
+        "description": "Панос Стейк Хаус в Ларнаке — это одно из лучших мест для любителей мяса, предлагающее превосходно приготовленные премиальные стейки и разнообразные блюда международной кухни. Тёплая атмосфера, внимательное обслуживание и меню, составленное из самых качественных ингредиентов, делают этот ресторан идеальным выбором для семейных ужинов, праздников и незабываемых гастрономических впечатлений."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "slug": "jayanta-indian-restaurant-paphos",
+    "image": "/restaurants/rest-14.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Jayanta Indian Restaurant",
+        "shortDescription": "Jayanta Indian Restaurant – Authentic Indian Cuisine in Paphos",
+        "description": "Jayanta Indian Restaurant in Paphos delivers a true taste of India with its rich, flavorful curries, tandoori dishes, and freshly baked naan. Known for its warm hospitality and vibrant atmosphere, it’s the perfect place to enjoy traditional Indian recipes crafted with aromatic spices and the finest ingredients."
+      },
+      "gr": {
+        "name": "Εστιατόριο Jayanta Indian",
+        "shortDescription": "Jayanta Ινδικό Εστιατόριο – Αυθεντική Ινδική Κουζίνα στην Πάφο",
+        "description": "Το Jayanta Ινδικό Εστιατόριο στην Πάφο προσφέρει την αυθεντική γεύση της Ινδίας με πλούσια και αρωματικά κάρυ, πιάτα ταντούρι και φρεσκοψημένο naan. Γνωστό για τη ζεστή φιλοξενία και τη ζωντανή ατμόσφαιρα, είναι το ιδανικό μέρος για να απολαύσετε παραδοσιακές ινδικές συνταγές φτιαγμένες με αρωματικά μπαχαρικά και εκλεκτά υλικά."
+      },
+      "ru": {
+        "name": "Ресторан Jayanta Indian",
+        "shortDescription": "Индийский ресторан Jayanta — аутентичная индийская кухня в Пафосе",
+        "description": "Индийский ресторан Jayanta в Пафосе передаёт настоящий вкус Индии с его насыщенными и ароматными карри, блюдами тандури и свежевыпеченным нааном. Известный тёплым гостеприимством и живой атмосферой, это идеальное место, чтобы насладиться традиционными индийскими рецептами, приготовленными с использованием ароматных специй и лучших ингредиентов."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "slug": "cucina-restaurant-neo-chloraka",
+    "image": "/restaurants/rest-15.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Cucina Restaurant",
+        "shortDescription": "Cucina Restaurant: Mediterranean and International Cuisine in Neo Chloraka, Paphos",
+        "description": "Cucina Restaurant in Neo Chloraka, Paphos, offers a delightful fusion of Mediterranean and international cuisine in a stylish setting..."
+      },
+      "gr": {
+        "name": "Εστιατόριο Cucina",
+        "shortDescription": "Εστιατόριο Cucina: Μεσογειακή και διεθνής κουζίνα στη Νέο Χλώρακα, Πάφος",
+        "description": "Το εστιατόριο Cucina στη Νέο Χλώρακα της Πάφου προσφέρει μια απολαυστική συγχώνευση μεσογειακής και διεθνούς κουζίνας..."
+      },
+      "ru": {
+        "name": "Ресторан Cucina",
+        "shortDescription": "Ресторан Cucina: Средиземноморская и международная кухня в Нео Хлорака, Пафос",
+        "description": "Ресторан Cucina в районе Нео Хлорака, Пафос, предлагает изысканное сочетание средиземноморской и международной кухни..."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "slug": "veranda-italian-restaurant-paphos",
+    "image": "/restaurants/rest-16.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Veranda Italian Restaurant",
+        "shortDescription": "Veranda Italian Restaurant – Authentic Italian Dining in Paphos",
+        "description": "Veranda Italian Restaurant in Paphos captures the essence of Italy with its handmade pastas, wood-fired pizzas, and gourmet specialties. Offering a cozy ambiance with a touch of elegance, it’s perfect for romantic evenings, family gatherings, or casual dining. Enjoy traditional Italian flavors made from the freshest ingredients and fine wines."
+      },
+      "gr": {
+        "name": "Veranda Ιταλικό Εστιατόριο",
+        "shortDescription": "Ιταλικό Εστιατόριο Veranda – Αυθεντική Ιταλική Κουζίνα στην Πάφο",
+        "description": "Το Ιταλικό Εστιατόριο Veranda στην Πάφο αποτυπώνει την ουσία της Ιταλίας με χειροποίητα ζυμαρικά, πίτσες σε ξυλόφουρνο και γκουρμέ σπεσιαλιτέ. Με ζεστή ατμόσφαιρα και διακριτική κομψότητα, είναι ιδανικό για ρομαντικά βράδια, οικογενειακές συγκεντρώσεις ή χαλαρό φαγητό. Απολαύστε παραδοσιακές ιταλικές γεύσεις, φτιαγμένες με τα πιο φρέσκα υλικά και συνοδευμένες από εκλεκτά κρασιά."
+      },
+      "ru": {
+        "name": "Итальянский ресторан Veranda",
+        "shortDescription": "Итальянский ресторан Veranda — Аутентичная итальянская кухня в Пафосе",
+        "description": "Итальянский ресторан Veranda в Пафосе передаёт подлинный дух Италии с домашней пастой, пиццей из дровяной печи и изысканными блюдами. Уютная атмосфера с элементами элегантности делает это место идеальным для романтического ужина, семейного вечера или непринуждённой трапезы. Насладитесь традиционными итальянскими вкусами, приготовленными из свежайших ингредиентов, в сопровождении отличного вина."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "slug": "elia-restaurant-protaras",
+    "image": "/restaurants/rest-17.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Elia Restaurant Cyprus",
+        "shortDescription": "Elia Restaurant Cyprus – Modern Mediterranean Dining in Protaras",
+        "description": "Elia Restaurant in Protaras blends traditional Cypriot and Mediterranean flavors with contemporary flair. Located near Konnos Beach, it offers grilled seafood, creative meze, premium meats and inventive desserts in stylish indoor and outdoor settings. Highly praised for its refined ambiance, scenic setting, excellent service and exceptional value."
+      },
+      "gr": {
+        "name": "Εστιατόριο Ελία Κύπρος",
+        "shortDescription": "Εστιατόριο Ελία Κύπρος – Modern Mediterranean Dining in Protaras",
+        "description": "Το Εστιατόριο Ελία στον Πρωταρά συνδυάζει παραδοσιακές κυπριακές και μεσογειακές γεύσεις με σύγχρονη δημιουργικότητα. Βρίσκεται κοντά στην παραλία Κόλπος Κόλνος και προσφέρει ψητά θαλασσινά, δημιουργικούς μεζέδες, εκλεκτά κρέατα και ευφάνταστα επιδόρπια σε κομψούς εσωτερικούς και εξωτερικούς χώρους. Έχει αποσπάσει εξαιρετικές κριτικές για την εκλεπτυσμένη του ατμόσφαιρα, το μαγευτικό του περιβάλλον, την άψογη εξυπηρέτηση και την εξαιρετική σχέση ποιότητας-τιμής."
+      },
+      "ru": {
+        "name": "Ресторан Элия Кипр",
+        "shortDescription": "Ресторан Элия Кипр — современная средиземноморская кухня в Протарасе",
+        "description": "Ресторан Элия в Протарасе сочетает традиционные кипрские и средиземноморские вкусы с современным акцентом. Расположен рядом с пляжем Коннос и предлагает блюда из жареных морепродуктов, креативные мезе, отборное мясо и оригинальные десерты — в стильной обстановке как внутри, так и на открытом воздухе. Высоко ценится за изысканную атмосферу, живописное расположение, превосходный сервис и отличное соотношение цены и качества."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "slug": "nubila-rooftop-restaurant-protaras",
+    "image": "/restaurants/rest-18.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Nubila Rooftop Restaurant",
+        "shortDescription": "Nubila Rooftop Restaurant – Chic Rooftop Dining in Protaras",
+        "description": "Nubila Rooftop Restaurant in Protaras delivers a stylish rooftop dining experience near Fig Tree Bay. Serving premium steaks, seafood, creative Mediterranean‑fusion dishes and signature cocktails in a boho‑chic setting, it’s celebrated for its panoramic ambiance, generous portions and top‑notch service—perfect for sunset dinners or special nights out."
+      },
+      "gr": {
+        "name": "Νούμπιλα Ρούφτοπ Εστιατόριο",
+        "shortDescription": "Νούμπιλα Ρούφτοπ Εστιατόριο – Κομψό Δείπνο σε Ταράτσα στον Πρωταρά",
+        "description": "Το Νούμπιλα Ρούφτοπ Εστιατόριο στον Πρωταρά προσφέρει μια κομψή εμπειρία δείπνου σε ταράτσα, κοντά στον Κόλπο της Συκιάς (Fig Tree Bay). Σερβίρει εκλεκτές μπριζόλες, θαλασσινά, δημιουργικά fusion μεσογειακά πιάτα και signature κοκτέιλ σε ένα boho-chic περιβάλλον. Είναι γνωστό για την πανοραμική του θέα, τις γενναιόδωρες μερίδες και την άριστη εξυπηρέτηση – ιδανικό για δείπνα στο ηλιοβασίλεμα ή ξεχωριστές βραδιές."
+      },
+      "ru": {
+        "name": "Нубила Руфтоп Ресторан",
+        "shortDescription": "Нубила Руфтоп Ресторан — Элегантный ужин на крыше в Протарасе",
+        "description": "Ресторан Нубила Руфтоп в Протарасе предлагает стильный ужин на крыше рядом с заливом Фиг-Три (Fig Tree Bay). Здесь подают первоклассные стейки, морепродукты, креативные блюда средиземноморской кухни фьюжн и фирменные коктейли в обстановке бохо-шик. Ресторан славится панорамной атмосферой, щедрыми порциями и безупречным обслуживанием — идеально для ужинов на закате и особенных вечеров."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "slug": "tsiakkas-tavern-paphos",
+    "image": "/restaurants/rest-19.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Tsiakkas Tavern",
+        "shortDescription": "Tsiakkas Tavern – Traditional Cypriot Seaside Dining in Paphos",
+        "description": "Nestled in Kissonerga near Coral Bay, Tsiakkas Tavern offers authentic Cypriot cuisine with spectacular sea views. Family-run since 1985, it’s renowned for its generous fish and meat meze platters, succulent grill specials, live weekends, and warm hospitality. Perfect for sunset dinners, gatherings, or memorable local flavor."
+      },
+      "gr": {
+        "name": "Ταβέρνα Τσιάκκας",
+        "shortDescription": "Ταβέρνα Τσιάκκας – Παραδοσιακή Κυπριακή Γαστρονομία Δίπλα στη Θάλασσα στην Πάφο",
+        "description": "Κρυμμένη στην Κισσόνεργα κοντά στον Κόλπο των Κοραλλίων, η Tsiakkas Tavern προσφέρει αυθεντική κυπριακή κουζίνα με εντυπωσιακή θέα στη θάλασσα. Οικογενειακή επιχείρηση από το 1985, είναι γνωστή για τους πλούσιους μεζέδες ψαριών και κρεάτων, τα ζουμερά ψητά, τα ζωντανά μουσικά βράδια το Σαββατοκύριακο και τη ζεστή φιλοξενία. Ιδανική για δείπνα στο ηλιοβασίλεμα, συγκεντρώσεις ή για μια αξέχαστη γεύση τοπικής παράδοσης."
+      },
+      "ru": {
+        "name": "Таверна Циаккас",
+        "shortDescription": "Таверна Циаккас – Традиционная кипрская кухня у моря в Пафосе",
+        "description": "Расположенная в Киссонерге рядом с Коралловым заливом, таверна Tsiakkas предлагает аутентичную кипрскую кухню с потрясающим видом на море. Семейное заведение с 1985 года, оно известно своими щедрыми мезе из рыбы и мяса, сочными блюдами на гриле, живыми выступлениями по выходным и тёплым гостеприимством. Идеально подходит для ужинов на закате, встреч с близкими и незабываемого знакомства с местным вкусом."
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "slug": "dionysus-mansion-limassol",
+    "image": "/restaurants/rest-20.jpg",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Dionysus Mansion",
+        "shortDescription": "Dionysus Mansion – Fun & Gourmet Mediterranean Dining in Limassol",
+        "description": "Dionysus Mansion in Limassol artfully blends Mediterranean and Cypriot flavors in a stylish historic mansion with a lush garden courtyard. Led by Chef Dimitris Haidemenos and sommelier George Zacharoglou, the menu highlights handmade local dishes and a curated wine list. Ideal for romantic dinners, gatherings or special evenings."
+      },
+      "gr": {
+        "name": "Ντιόνυσους Μάνσιον",
+        "shortDescription": "Ντιόνυσους Μάνσιον – Διασκέδαση και Γκουρμέ Μεσογειακή Κουζίνα στη Λεμεσό",
+        "description": "Το Ντιόνυσους Μάνσιον στη Λεμεσό συνδυάζει με τέχνη τις μεσογειακές και κυπριακές γεύσεις σε μια κομψή ιστορική έπαυλη με καταπράσινη αυλή. Υπό την καθοδήγηση του σεφ Δημήτρη Χαϊδεμένου και του σομελιέ Γιώργου Ζαχαρόγλου, το μενού αναδεικνύει χειροποίητα τοπικά πιάτα και μια επιλεγμένη λίστα κρασιών. Ιδανικό για ρομαντικά δείπνα, συγκεντρώσεις ή ξεχωριστές βραδιές."
+      },
+      "ru": {
+        "name": "Дионисус Мэнсион",
+        "shortDescription": "Дионисус Мэнсион – Веселая и изысканная средиземноморская кухня в Лимассоле",
+        "description": "Дионисус Мэнсион в Лимассоле искусно сочетает средиземноморские и кипрские вкусы в стильном историческом особняке с пышным садовым двором. Под руководством шеф-повара Дмитриса Хайдеменоса и сомелье Георгия Захароглу меню включает в себя ручные местные блюда и тщательно подобранное винное предложение. Идеально подходит для романтических ужинов, встреч и особенных вечеров.Если хочешь, могу сделать более краткий или официальный вариант!"
+      }
+    },
+    "tables": {
+      "indoor": true,
+      "outdoor": true,
+      "tableSettings": "elegant",
+      "reservationsRequired": true,
+      "notes": {
+        "en": "Ideal for casual and formal dining. Book in advance for weekends.",
+        "gr": "Ιδανικό για καθημερινά και επίσημα γεύματα. Συνιστάται κράτηση για τα Σαββατοκύριακα.",
+        "ru": "Подходит как для повседневных, так и для торжественных ужинов. Рекомендуется бронирование на выходные."
+      },
+      "availableTables": [
+        {
+          "id": "T1",
+          "location": "indoor",
+          "position": "corner",
+          "seats": 4,
+          "isAvailable": true
+        },
+        {
+          "id": "T2",
+          "location": "indoor",
+          "position": "center",
+          "seats": 2,
+          "isAvailable": true
+        },
+        {
+          "id": "T3",
+          "location": "outdoor",
+          "position": "terrace",
+          "seats": 4,
+          "isAvailable": false
+        },
+        {
+          "id": "T4",
+          "location": "outdoor",
+          "position": "garden",
+          "seats": 6,
+          "isAvailable": true
+        }
+      ]
+    }
+  }
+]
+
+
+
+
+

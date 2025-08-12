@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@import "react-datepicker/dist/react-datepicker.css";
+
+:root {
+  --background: #ffffff;
+  --black: #3B505A;
+  --mid-teal: #00776f;
+  --gradient: background: #00776F; background: linear-gradient(90deg, rgba(0, 119, 111, 1) 0%, rgba(25, 132, 125, 1) 50%, rgba(30, 200, 200, 1) 100%);
+  --mid-teal-hover: #19847d;
+  --light-teal: #1ec8c8;
+  --orange: #ff6c10;
+  --orange-hover: #fb7c2d;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+
+
